@@ -982,7 +982,8 @@ br.clear {
 
 			.image.avatar48 img {
 				width: 48px;
-				height: 48px;
+        height: 48px;
+        border-radius: 48px;
 			}
 
 		.image.fit {
@@ -1478,7 +1479,8 @@ br.clear {
 
 	/* #headerToggle {
 		display: none;
-	} */
+  } */
+  
 
 	@media screen and (max-width: 960px) {
 
